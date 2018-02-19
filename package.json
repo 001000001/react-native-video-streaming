@@ -1,0 +1,27 @@
+{
+  "name": "react-native-video-streaming",
+  "version": "0.0.1",
+  "description": "Stream realtime video from a React Native application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/001000001/react-native-video-streaming.git"
+  },
+  "keywords": [
+    "video",
+    "streaming",
+    "kinesis",
+    "aws",
+    "kinesis",
+    "video"
+  ],
+  "author": "Andrei Papancea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/001000001/react-native-video-streaming/issues"
+  },
+  "homepage": "https://github.com/001000001/react-native-video-streaming#readme"
+}
